@@ -11,7 +11,7 @@ def rm(i):
     x=20
     while k<i:
         t.pensize(2)
-        t.color('red')
+        t.color('green')
         t.circle(1000)
         t.pensize(5)
         t.color('black')       
